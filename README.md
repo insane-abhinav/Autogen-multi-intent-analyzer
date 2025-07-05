@@ -1,4 +1,4 @@
-# Multi-Agent Text Classification using LLM and Autogen
+# Autogen-Multi-Intent-Analyzer
 
 This project implements a modular, extensible **multi-agent system** powered by **LLMs** and **Microsoft's Autogen Framework**. The system is capable of classifying natural language sentences into multiple domain-specific categories such as **fitness**, **marital**, **sports**, **travel**, and more — using dedicated **LLM agents** for each domain.
 
